@@ -2,3 +2,4 @@
 蓝：Add loss stats
 蓝：Add twcc_id in gcc_stats.csv
 绿：bump vite version
+绿：Add image
